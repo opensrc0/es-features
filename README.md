@@ -254,7 +254,7 @@ Especially react developers can relate easily state! and initialProps!:
 ```
 
 
-## 3) ES2017-ES8
+## ES2017-ES8
 ---
 https://github.com/daumann/ECMAScript-new-features-list/blob/master/ES2017.MD
 
@@ -389,7 +389,7 @@ O/P: "001"
 O/P: "10000"
 ```
 
-### 4) ES2018-ES9
+## ES2018-ES9
 ---
 
 https://github.com/daumann/ECMAScript-new-features-list/blob/master/ES2018.MD
@@ -464,7 +464,7 @@ testFinally().then(() => console.debug("resolved")).finally(() => console.debug(
 // finally
 ```
 
-## 5)  ES2019-ES10
+## ES2019-ES10
 ---
 
 https://dev.to/prabusubra/es2019-es10-features-5b14
