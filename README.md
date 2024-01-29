@@ -1,7 +1,7 @@
 # es-features
 
 ## Table of contents
-1. [ES2015 || ES6](#ES2015/ES6)
+1. [ES2015 || ES6](#ES2015-ES6)
 2. [ES2016 || ES7](#ES2016-ES7)
 3. [ES2017 || ES8](#ES2017-ES8)
 4. [ES2018 || ES9](#ES2018-ES9)
@@ -35,7 +35,7 @@
 8. [ES2022 || ES13](#ES2022-ES13)
 
 
-### 1. ES2015/ES6
+### 1. ES2015-ES6
 ----
 
 All fetures Referance: https://github.com/lukehoban/es6features
