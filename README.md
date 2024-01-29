@@ -1,4 +1,8 @@
-# es-features
+<h1 align="center">Different ES features according to ES release</h1>
+<br />
+
+Every year ES is releasing different features and those features will be available in javascript. Most of the browser are providing the support but chrome is the source of trust of newly available feature.
+
 
 ## Table of contents
 1. [ES2015 || ES6](#ES2015-ES6)
