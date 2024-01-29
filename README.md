@@ -1,17 +1,17 @@
 # es-features
 
 ## Table of contents
-1. [ES2015 - ES6](#ES2015-ES6)
-2. [ES2016 - ES7](#ES2016-ES7)
-3. [ES2017 - ES8](#ES2017-ES8)
-4. [ES2018 - ES9](#ES2018-ES9)
-5. [ES2019 - ES10](#ES2019-ES10)
-6. [ES2020 - ES11](#ES2020-ES11)
-7. [ES2021 - ES12](#ES2021-ES12)
-8. [ES2022 - ES13](#ES2022-ES13)
+1. [ES2015 || ES6](#ES2015/ES6)
+2. [ES2016 || ES7](#ES2016-ES7)
+3. [ES2017 || ES8](#ES2017-ES8)
+4. [ES2018 || ES9](#ES2018-ES9)
+5. [ES2019 || ES10](#ES2019-ES10)
+6. [ES2020 || ES11](#ES2020-ES11)
+7. [ES2021 || ES12](#ES2021-ES12)
+8. [ES2022 || ES13](#ES2022-ES13)
 
 
-### 1. features
+### 1. ES2015/ES6
 ----
 
 All fetures Referance: https://github.com/lukehoban/es6features
