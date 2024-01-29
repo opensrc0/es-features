@@ -35,7 +35,8 @@
 8. [ES2022 || ES13](#ES2022-ES13)
 
 
-### 1. ES2015-ES6
+## ES2015-ES6
+
 ----
 
 All fetures Referance: https://github.com/lukehoban/es6features
