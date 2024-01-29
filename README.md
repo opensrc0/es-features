@@ -4,7 +4,7 @@
 Every year ES is releasing different features and those features will be available in javascript. Most of the browser are providing the support but chrome is the source of trust of newly available feature.
 
 
-## Table of contents
+# Table of contents
 1. [ES2015 || ES6](#ES2015-ES6)
 2. [ES2016 || ES7](#ES2016-ES7)
 3. [ES2017 || ES8](#ES2017-ES8)
@@ -14,7 +14,7 @@ Every year ES is releasing different features and those features will be availab
 7. [ES2021 || ES12](#ES2021-ES12)
 8. [ES2022 || ES13](#ES2022-ES13)
 
-### ES2015-ES6
+## ES2015-ES6
 
 ----
 
@@ -194,7 +194,7 @@ alert("2π = " + math.sum(math.pi, math.pi));
 ---
 
 
-### 2) ECMAScript 2016 - ES 7
+## ES2016-ES7
 ---
 Referance: https://github.com/daumann/ECMAScript-new-features-list/blob/master/ES2016.MD
 
@@ -254,7 +254,7 @@ Especially react developers can relate easily state! and initialProps!:
 ```
 
 
-### 3) ECMAScript 2017 - ES2017 - "ES8"
+## 3) ES2017-ES8
 ---
 https://github.com/daumann/ECMAScript-new-features-list/blob/master/ES2017.MD
 
@@ -389,7 +389,7 @@ O/P: "001"
 O/P: "10000"
 ```
 
-### 4) ECMAScript 2018 - ES2018 - "ES9"
+### 4) ES2018-ES9
 ---
 
 https://github.com/daumann/ECMAScript-new-features-list/blob/master/ES2018.MD
@@ -464,7 +464,7 @@ testFinally().then(() => console.debug("resolved")).finally(() => console.debug(
 // finally
 ```
 
-### 5)  ECMAScript 2019 - ES2019 - "ES10"
+## 5)  ES2019-ES10
 ---
 
 https://dev.to/prabusubra/es2019-es10-features-5b14
@@ -553,7 +553,7 @@ try {
 ```
 
 
-### 6)  ECMAScript 2020 - ES2020 - "ES11"
+## ES2020-ES11
 ---
 
 https://areknawo.com/ecmascript-2020-biggest-new-features/
@@ -679,7 +679,7 @@ resultsArr[0]; // ["test2", "e", "st2", "2"]
 Lastly, we've got just a minor tweak to the specs that now strictly defines the order in which the for..in loop should iterate. It was already handled pretty well by the browsers themselves, so it's just a matter of making it official.
 
 
-### 7)  ECMAScript 2021 - ES2021 - "ES12"
+## ES2021-ES12
 ---
 https://dev.to/brayanarrieta/new-javascript-features-ecmascript-2021-with-examples-3hfm
 
@@ -838,7 +838,7 @@ const reg = new FinalizationRegistry((val) => {
 ```
 
 
-### 8)  ECMAScript 2022 - ES2022 - "ES13"
+## ES2022-ES13
 ---
 
 https://dev.to/brayanarrieta/new-javascript-features-ecmascript-2022-with-examples-4nhg
