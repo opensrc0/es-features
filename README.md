@@ -6,16 +6,81 @@ Every year ES is releasing different features and those features will be availab
 
 # Table of contents
 1. [ES2015 || ES6](#ES2015-ES6)
+     1. Arrows
+     2. Classes
+     3. Enhanced Object Literals
+     4. Template Strings
+     5. Destructuring
+     6. Default + Rest + Spread
+     7. Let + Const
+     8. Generators
+     9. Unicode
+     10. Modules
+     11. Module Loaders
+     12. Map + Set + WeakMap + WeakSet
+     13. Proxies
+     14. Symbols
+     15. Math + Number + String + Array + Object APIs
+     16. Tail Calls
+     17. Promises
+     18. Binary and Octal Literals
+     19. Subclassable Built-ins
+
 2. [ES2016 || ES7](#ES2016-ES7)
+    1. Array.prototype.includes()
+    2. Exponential Operator
+    3. Class Properties
+   
 3. [ES2017 || ES8](#ES2017-ES8)
+    1. async function
+    2. Object.entries()
+    3. Object.values()
+    4. Object.getOwnPropertyDescriptors()
+    5. Trailing Commas
+    6. string.padEnd() and string.padStart() functions:
+
 4. [ES2018 || ES9](#ES2018-ES9)
-5. [ES2019 || ES10](#ES2019-ES10)
+    1. Async iterators
+    2. Object rest properties
+    3. Object spread properties
+    4. Promise prototype finally
+   
+6. [ES2019 || ES10](#ES2019-ES10)
+    1. Array.prototype.{flat,flatMap}
+    2. Object.fromEntries
+    3. String.prototype.{trimStart,trimEnd}
+    4. Symbol.prototype.description
+    5. Optional catch binding
+
 6. [ES2020 || ES11](#ES2020-ES11)
-7. [ES2021 || ES12](#ES2021-ES12)
+    1. BigInt
+    2. Dynamic import
+    3. Exporting modules
+    4. Optional Chaining
+    5. Nullish coalescing operator
+    6. Promise.AllSettled
+    7. String.matchAll()
+    8. For-in order
+
+9. [ES2021 || ES12](#ES2021-ES12)
+    1. Numberic separators
+    2. String.protype.replaceAll
+    3. Logical assignment operator a) &&=  b) ||=  c) ??=
+    4. Promise.any method
+    5. WeakRef
+
 8. [ES2022 || ES13](#ES2022-ES13)
+    1. Top level await
+    2. Private instance fields, methods, and accessors
+    3. Static class fields and method
+    4. Static class initialization blocks
+    5. Error: .cause
+    6. Array, String, and TypedArray: .at() Method
+    7. Object: .hasOwn()
+    8. RegExp: match .indices ('d' flag)
 
+ 
 ## ES2015-ES6
-
 ----
 
 All fetures Referance: https://github.com/lukehoban/es6features
